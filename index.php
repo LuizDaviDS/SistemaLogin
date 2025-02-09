@@ -60,5 +60,6 @@ if (isset($_POST['email']) || isset($_POST['senha']))  // checando se o email e 
         </p>
         <button type="submit">Enviar</button>
     </form>
+    <a href="cadastro.php">Cadastrar</a> <!-- Link para a página de cadastro -->
 </body>
 </html>
